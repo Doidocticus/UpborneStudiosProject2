@@ -4885,3 +4885,19 @@ SM_Cube15
 [2022.03.04-14.30.00:156][125]AssetCheck: New page: Asset Save: multiple assets
 [2022.03.04-14.30.00:156][125]LogContentValidation: Display: Validating Blueprint /Game/00-Content/02-Blueprints/OpenableDrawers.OpenableDrawers
 [2022.03.04-14.30.00:156][125]LogContentValidation: Display: Validating Material /Game/00-Content/03-Models+Textures/99-Testing/Reception/Table/Material.Material
+[2022.03.04-14.33.02:752][657]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.03.04-14.33.02:752][657]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.03.04-14.33.02:753][657]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/00-Content/01-Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_101
+[2022.03.04-14.33.02:753][657]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/00-Content/01-Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_101
+[2022.03.04-14.33.04:016][758]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.03.04-14.33.04:016][758]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.03.04-14.33.04:017][758]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/00-Content/01-Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_102
+[2022.03.04-14.33.04:017][758]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/00-Content/01-Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_102
+[2022.03.04-14.34.14:075][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.03.04-14.34.14:574][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.03.04-14.34.14:621][105]LogSavePackage: Moving output files for package: /Game/00-Content/01-Levels/MainLevel
+[2022.03.04-14.34.14:622][105]LogSavePackage: Moving 'D:/01 - ENTI 2021-22/A10 - Projecte II/00 - Repositori GitHub Clase/GitHub/UE5Project2Upborne/Saved/MainLevelA5ABD55741C10CDB37FA18A0D98B3E64.tmp' to 'D:/01 - ENTI 2021-22/A10 - Projecte II/00 - Repositori GitHub Clase/GitHub/UE5Project2Upborne/Content/00-Content/01-Levels/MainLevel.umap'
+[2022.03.04-14.34.14:633][105]LogFileHelpers: No new changes to save!
+[2022.03.04-14.34.14:634][105]LogFileHelpers: Saving map 'MainLevel' took 0.110
+[2022.03.04-14.34.14:646][105]AssetCheck: New page: Asset Save: MainLevel
+[2022.03.04-14.34.14:646][105]LogContentValidation: Display: Validating World /Game/00-Content/01-Levels/MainLevel.MainLevel
