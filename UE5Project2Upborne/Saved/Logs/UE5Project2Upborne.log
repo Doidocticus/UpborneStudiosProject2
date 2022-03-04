@@ -1717,3 +1717,18 @@ You can create and save your custom layouts with "Window"->"Save Layout"->"Save 
 [2022.03.04-11.59.42:829][708]LogContentValidation: Display: Validating StaticMesh /Game/00-Content/03-Models+Textures/99-Testing/Reception/Table/Taula.Taula
 [2022.03.04-11.59.56:300][873]LogSlate: Window 'Message Log' being destroyed
 [2022.03.04-11.59.56:314][873]LogSlate: Window 'Message Log' being destroyed
+[2022.03.04-12.01.12:020][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.03.04-12.01.12:626][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.03.04-12.01.12:647][ 56]LogSavePackage: Moving output files for package: /Game/00-Content/01-Levels/MainLevel
+[2022.03.04-12.01.12:648][ 56]LogSavePackage: Moving 'D:/01 - ENTI 2021-22/A10 - Projecte II/00 - Repositori GitHub Clase/GitHub/UE5Project2Upborne/Saved/MainLevelDF9200614A0A23DD75CA9BBEE3B49A00.tmp' to 'D:/01 - ENTI 2021-22/A10 - Projecte II/00 - Repositori GitHub Clase/GitHub/UE5Project2Upborne/Content/00-Content/01-Levels/MainLevel.umap'
+[2022.03.04-12.01.12:660][ 56]LogFileHelpers: No new changes to save!
+[2022.03.04-12.01.12:660][ 56]LogFileHelpers: Saving map 'MainLevel' took 0.053
+[2022.03.04-12.01.13:993][ 56]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/Reception/Table/T_table_01_BC
+[2022.03.04-12.01.13:993][ 56]LogSavePackage: Moving 'D:/01 - ENTI 2021-22/A10 - Projecte II/00 - Repositori GitHub Clase/GitHub/UE5Project2Upborne/Saved/T_table_01_BC585521AA46F042410831C4AB59F999B8.tmp' to 'D:/01 - ENTI 2021-22/A10 - Projecte II/00 - Repositori GitHub Clase/GitHub/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/Reception/Table/T_table_01_BC.uasset'
+[2022.03.04-12.01.15:268][ 56]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/Reception/Table/T_table_01_N
+[2022.03.04-12.01.15:268][ 56]LogSavePackage: Moving 'D:/01 - ENTI 2021-22/A10 - Projecte II/00 - Repositori GitHub Clase/GitHub/UE5Project2Upborne/Saved/T_table_01_NF5FE9F4843E07D762CF8CD84C94E0DFF.tmp' to 'D:/01 - ENTI 2021-22/A10 - Projecte II/00 - Repositori GitHub Clase/GitHub/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/Reception/Table/T_table_01_N.uasset'
+[2022.03.04-12.01.16:517][ 56]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.04-12.01.16:517][ 56]LogContentValidation: Display: Validating World /Game/00-Content/01-Levels/MainLevel.MainLevel
+[2022.03.04-12.01.16:517][ 56]LogContentValidation: Display: Validating Texture2D /Game/00-Content/03-Models+Textures/99-Testing/Reception/Table/T_table_01_N.T_table_01_N
+[2022.03.04-12.01.16:517][ 56]LogContentValidation: Display: Validating Texture2D /Game/00-Content/03-Models+Textures/99-Testing/Reception/Table/T_table_01_BC.T_table_01_BC
+[2022.03.04-12.01.16:521][ 56]LogAutomationController: Ignoring very large delta of 4.53 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
