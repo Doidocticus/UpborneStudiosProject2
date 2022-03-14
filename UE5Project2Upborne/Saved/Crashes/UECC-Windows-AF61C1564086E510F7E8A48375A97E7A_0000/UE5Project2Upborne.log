@@ -1,0 +1,1191 @@
+﻿Log file open, 03/14/22 18:50:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=4380)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UE5Project2Upborne
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19044958"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.0-19044958+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\didac\Desktop\PROJECTE 2\UpborneStudiosProject2\UE5Project2Upborne\UE5Project2Upborne.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="38113d4b404bcdadfdc0b0a1151df472"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.626608
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-AF61C1564086E510F7E8A48375A97E7A
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.09 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.10 seconds
+LogConfig: Display: Loading Android ini files took 0.11 seconds
+LogConfig: Display: Loading Linux ini files took 0.14 seconds
+LogConfig: Display: Loading Mac ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.08 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.06 seconds
+LogConfig: Display: Loading Windows ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin LiveLink
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MotoSynth
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin OpenXR
+LogPluginManager: Mounting Engine plugin OpenXREyeTracker
+LogPluginManager: Mounting Engine plugin OpenXRHandTracking
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ConcertMain
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin SQLiteCore
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OculusVR
+LogPluginManager: Mounting Engine plugin SteamVR
+LogPluginManager: Mounting Engine plugin ConcertSyncClient
+LogPluginManager: Mounting Engine plugin ConcertSyncCore
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MotoSynth/Content/' mounted to '/MotoSynth/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/OpenXR/Content/' mounted to '/OpenXR/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/OpenXREyeTracker/Content/' mounted to '/OpenXREyeTracker/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/OpenXRHandTracking/Content/' mounted to '/OpenXRHandTracking/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Oculus/OculusVR/Content/' mounted to '/OculusVR/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Steam/SteamVR/Content/' mounted to '/SteamVR/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content/' mounted to '/ConcertSyncClient/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.65.0
+LogInit: Build: ++UE5+Release-5.0-CL-19044958
+LogInit: Engine Version: 5.0.0-19044958+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-16433597+++UE5+Release-5.0
+LogInit: Net CL: 16433597
+LogInit: OS: Windows 10 (21H2) (), CPU: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Feb 18 2022 01:49:56
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 31
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.03.14-17.50.44:852][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.03.14-17.50.44:852][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.03.14-17.50.44:852][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.03.14-17.50.44:853][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.03.14-17.50.44:857][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.03.14-17.50.44:857][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.03.14-17.50.44:857][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.03.14-17.50.44:857][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.03.14-17.50.44:857][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.03.14-17.50.44:857][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.03.14-17.50.44:857][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.03.14-17.50.44:857][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.03.14-17.50.44:857][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.03.14-17.50.44:857][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.03.14-17.50.44:857][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.03.14-17.50.44:865][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.03.14-17.50.44:870][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.14-17.50.44:870][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.14-17.50.44:870][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.03.14-17.50.44:870][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.14-17.50.44:870][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.03.14-17.50.44:870][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060 6GB
+[2022.03.14-17.50.44:870][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.14-17.50.44:870][  0]LogD3D11RHI:     DeviceId    : 1c03
+[2022.03.14-17.50.44:870][  0]LogD3D11RHI:     SubSysId    : 85ab1043
+[2022.03.14-17.50.44:870][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.14-17.50.44:870][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.03.14-17.50.44:870][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.14-17.50.44:870][  0]LogD3D11RHI:     SharedSystemMemory : 8546131968 bytes
+[2022.03.14-17.50.44:870][  0]LogD3D11RHI:     AdapterLuid : 0 61761
+[2022.03.14-17.50.44:978][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_1)
+[2022.03.14-17.50.44:978][  0]LogD3D11RHI:       6052/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.03.14-17.50.44:978][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.03.14-17.50.44:978][  0]LogD3D11RHI:     Description : Intel(R) HD Graphics 4600
+[2022.03.14-17.50.44:978][  0]LogD3D11RHI:     VendorId    : 8086
+[2022.03.14-17.50.44:978][  0]LogD3D11RHI:     DeviceId    : 0412
+[2022.03.14-17.50.44:978][  0]LogD3D11RHI:     SubSysId    : d0001458
+[2022.03.14-17.50.44:978][  0]LogD3D11RHI:     Revision    : 0006
+[2022.03.14-17.50.44:978][  0]LogD3D11RHI:     DedicatedVideoMemory : 117964800 bytes
+[2022.03.14-17.50.44:978][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.14-17.50.44:978][  0]LogD3D11RHI:     SharedSystemMemory : 2147483648 bytes
+[2022.03.14-17.50.44:978][  0]LogD3D11RHI:     AdapterLuid : 0 64762
+[2022.03.14-17.50.44:984][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_1)
+[2022.03.14-17.50.44:984][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.03.14-17.50.44:984][  0]LogD3D11RHI: Testing D3D11 Adapter 2:
+[2022.03.14-17.50.44:984][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.03.14-17.50.44:984][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.03.14-17.50.44:984][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.03.14-17.50.44:984][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.03.14-17.50.44:984][  0]LogD3D11RHI:     Revision    : 0000
+[2022.03.14-17.50.44:984][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.03.14-17.50.44:984][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.14-17.50.44:984][  0]LogD3D11RHI:     SharedSystemMemory : 8546131968 bytes
+[2022.03.14-17.50.44:984][  0]LogD3D11RHI:     AdapterLuid : 0 64709
+[2022.03.14-17.50.44:986][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.03.14-17.50.44:986][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.14-17.50.44:986][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.03.14-17.50.44:986][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060 6GB
+[2022.03.14-17.50.44:986][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.14-17.50.44:986][  0]LogD3D11RHI:     DeviceId    : 1c03
+[2022.03.14-17.50.44:986][  0]LogD3D11RHI:     SubSysId    : 85ab1043
+[2022.03.14-17.50.44:986][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.14-17.50.44:986][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.03.14-17.50.44:986][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.14-17.50.44:986][  0]LogD3D11RHI:     SharedSystemMemory : 8546131968 bytes
+[2022.03.14-17.50.44:986][  0]LogD3D11RHI:     AdapterLuid : 0 61761
+[2022.03.14-17.50.44:987][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.03.14-17.50.44:987][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.03.14-17.50.44:987][  0]LogHAL: Display: Platform has ~ 16 GB [17092263936 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.14-17.50.44:987][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.03.14-17.50.44:987][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.03.14-17.50.44:987][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.14-17.50.44:987][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.03.14-17.50.44:987][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/Config/WindowsEditor/Editor.ini]
+[2022.03.14-17.50.44:987][  0]LogInit: Computer: DESKTOP-L9BBC3K
+[2022.03.14-17.50.44:987][  0]LogInit: User: didac
+[2022.03.14-17.50.44:987][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.03.14-17.50.44:987][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.14-17.50.44:987][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.03.14-17.50.44:987][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.03.14-17.50.44:987][  0]LogMemory: Process Physical Memory: 263.07 MB used, 269.26 MB peak
+[2022.03.14-17.50.44:987][  0]LogMemory: Process Virtual Memory: 205.37 MB used, 205.37 MB peak
+[2022.03.14-17.50.44:987][  0]LogMemory: Physical Memory: 9082.60 MB used,  7217.86 MB free, 16300.45 MB total
+[2022.03.14-17.50.44:987][  0]LogMemory: Virtual Memory: 12705.25 MB used,  12811.20 MB free, 25516.45 MB total
+[2022.03.14-17.50.44:987][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.03.14-17.50.44:993][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.14-17.50.45:008][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.03.14-17.50.45:010][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.03.14-17.50.45:010][  0]LogInit: Using OS detected locale (es-ES).
+[2022.03.14-17.50.45:199][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.14-17.50.45:211][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.03.14-17.50.45:211][  0]LogWindowsTextInputMethodSystem:   - Catalán (Catalán) - (Keyboard).
+[2022.03.14-17.50.45:211][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - (Keyboard).
+[2022.03.14-17.50.45:211][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - Corrección de entrada táctil (TSF IME).
+[2022.03.14-17.50.45:211][  0]LogWindowsTextInputMethodSystem: Activated input method: Catalán (Catalán) - (Keyboard).
+[2022.03.14-17.50.45:223][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.14-17.50.45:223][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.14-17.50.45:361][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.14-17.50.45:361][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.14-17.50.45:361][  0]LogWindows: EnumDisplayDevices:
+[2022.03.14-17.50.45:361][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2022.03.14-17.50.45:361][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.03.14-17.50.45:362][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.03.14-17.50.45:362][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.03.14-17.50.45:363][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2022.03.14-17.50.45:363][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2022.03.14-17.50.45:363][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2022.03.14-17.50.45:364][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.03.14-17.50.45:364][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2022.03.14-17.50.45:364][  0]LogD3D11RHI:   Driver Version: 497.09 (internal:30.0.14.9709, unified:497.09)
+[2022.03.14-17.50.45:364][  0]LogD3D11RHI:      Driver Date: 11-26-2021
+[2022.03.14-17.50.45:364][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2022.03.14-17.50.45:364][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.03.14-17.50.45:364][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060 6GB
+[2022.03.14-17.50.45:364][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.14-17.50.45:364][  0]LogD3D11RHI:     DeviceId    : 1c03
+[2022.03.14-17.50.45:364][  0]LogD3D11RHI:     SubSysId    : 85ab1043
+[2022.03.14-17.50.45:364][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.14-17.50.45:364][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.03.14-17.50.45:364][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.14-17.50.45:364][  0]LogD3D11RHI:     SharedSystemMemory : 8546131968 bytes
+[2022.03.14-17.50.45:364][  0]LogD3D11RHI:     AdapterLuid : 0 61761
+[2022.03.14-17.50.45:425][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.14-17.50.45:425][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.14-17.50.45:425][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.03.14-17.50.45:425][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.14-17.50.45:448][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.14-17.50.45:502][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.14-17.50.45:508][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/UE5Project2Upborne.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Intermediate/TurnkeyReport_0.log" -log="C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Intermediate/TurnkeyLog_0.log" -project="C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/UE5Project2Upborne.uproject"  -platform=all'
+[2022.03.14-17.50.45:509][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/UE5Project2Upborne.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Intermediate/TurnkeyReport_0.log" -log="C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Intermediate/TurnkeyLog_0.log" -project="C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/UE5Project2Upborne.uproject"  -platform=all" ]
+[2022.03.14-17.50.45:532][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.03.14-17.50.45:539][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.03.14-17.50.45:539][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.03.14-17.50.45:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.14-17.50.45:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.14-17.50.45:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.14-17.50.45:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.14-17.50.45:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.14-17.50.45:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.14-17.50.45:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.14-17.50.45:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.14-17.50.45:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.14-17.50.45:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.14-17.50.45:549][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.03.14-17.50.45:549][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.03.14-17.50.45:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.14-17.50.45:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.14-17.50.45:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.14-17.50.45:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.03.14-17.50.45:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.14-17.50.45:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.14-17.50.45:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.03.14-17.50.45:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.03.14-17.50.45:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.03.14-17.50.45:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.14-17.50.45:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.14-17.50.45:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.14-17.50.45:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.03.14-17.50.45:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.14-17.50.45:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.14-17.50.45:568][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.03.14-17.50.45:576][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.14-17.50.45:579][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.03.14-17.50.45:579][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.03.14-17.50.45:579][  0]LogTargetPlatformManager:   ADPCM
+[2022.03.14-17.50.45:579][  0]LogTargetPlatformManager:   PCM
+[2022.03.14-17.50.45:581][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.03.14-17.50.45:581][  0]LogTargetPlatformManager:   BINKA
+[2022.03.14-17.50.45:581][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.03.14-17.50.45:581][  0]LogTargetPlatformManager:   OGG
+[2022.03.14-17.50.45:581][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.03.14-17.50.45:581][  0]LogTargetPlatformManager:   OPUS
+[2022.03.14-17.50.45:620][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.03.14-17.50.45:626][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.03.14-17.50.45:626][  0]LogTargetPlatformManager:   SF_METAL
+[2022.03.14-17.50.45:626][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.03.14-17.50.45:626][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.03.14-17.50.45:626][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.03.14-17.50.45:626][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.03.14-17.50.45:626][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.03.14-17.50.45:626][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.03.14-17.50.45:626][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.03.14-17.50.45:626][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.03.14-17.50.45:626][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.03.14-17.50.45:626][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.03.14-17.50.45:626][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.03.14-17.50.45:626][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.03.14-17.50.45:626][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.03.14-17.50.45:626][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.03.14-17.50.45:629][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.03.14-17.50.45:629][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.03.14-17.50.45:629][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.03.14-17.50.45:629][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.03.14-17.50.45:629][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.03.14-17.50.45:629][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.03.14-17.50.45:629][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.03.14-17.50.45:629][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.14-17.50.45:630][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.03.14-17.50.45:634][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.03.14-17.50.45:634][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.03.14-17.50.45:634][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.03.14-17.50.45:638][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.03.14-17.50.45:640][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.14-17.50.45:640][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.03.14-17.50.45:640][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.14-17.50.45:640][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.03.14-17.50.45:659][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (943 MiB)
+[2022.03.14-17.50.45:659][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.14-17.50.45:659][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.03.14-17.50.45:667][  0]LogDerivedDataCache: Speed tests for C:/Users/didac/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.03.14-17.50.45:667][  0]LogDerivedDataCache: Display: Performance to C:/Users/didac/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=1362.38MBs, RandomWriteSpeed=141.57MBs. Assigned SpeedClass 'Local'
+[2022.03.14-17.50.45:671][  0]LogDerivedDataCache: Using Local data cache path C:/Users/didac/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.14-17.50.45:671][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.14-17.50.45:671][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.03.14-17.50.45:680][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.03.14-17.50.45:680][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.03.14-17.50.45:681][  0]LogShaderCompilers: Guid format shader working directory is -45 characters bigger than the processId version (../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Intermediate/Shaders/WorkingDirectory/12880/).
+[2022.03.14-17.50.45:681][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/didac/AppData/Local/Temp/UnrealShaderWorkingDir/446F8F404DAD691A9F4436A2132C4037/'.
+[2022.03.14-17.50.45:681][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.03.14-17.50.45:681][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.03.14-17.50.47:244][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.14-17.50.47:244][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.14-17.50.47:282][  0]LogAssetRegistry: FAssetRegistry took 0.0155 seconds to start up
+[2022.03.14-17.50.47:292][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.03.14-17.50.47:541][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.03.14-17.50.47:542][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.03.14-17.50.48:023][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.03.14-17.50.48:023][  0]LogDeviceProfileManager: Active device profile: [00000AF926B3A800][00000AF91E23A000 50] WindowsEditor
+[2022.03.14-17.50.48:023][  0]LogDeviceProfileManager: Profiles: [00000AF926B3A9C0][00000AF91E232800 50] Windows, [00000AF926B3A800][00000AF91E23A000 50] WindowsEditor, [00000AF926B37380][00000AF90EF42800 50] WindowsServer, [00000AF926B3A100][00000AF926E90000 50] WindowsClient, [00000AF926B36C80][00000AF926E95000 50] IOS, [00000AF926B39A00][00000AF926E97800 50] iPadAir, [00000AF926B35400][00000AF926E9A000 50] iPadAir2, [00000AF926B3B600][00000AF91E235000 50] IPadPro, [00000AF926B3B980][00000AF926E9C800 50] iPadAir3, [00000AF926B386C0][00000AF926EA0000 50] iPadAir4, [00000AF926B3BB40][00000AF926EA5000 50] iPadMini2, [00000AF926B3B280][00000AF926EA7800 50] iPadMini3, [00000AF926B363C0][00000AF926EAA000 50] iPadMini4, [00000AF926B35780][00000AF926EAC800 50] iPadMini5, [00000AF926B3C080][00000AF926EF0000 50] iPhone6, [00000AF926B3C400][00000AF926EF2800 50] iPodTouch6, [00000AF926B3B440][00000AF926EFA000 50] iPhone7, [00000AF926B34D00][00000AF926EF7800 50] iPodTouch7, [00000AF926B35240][00000AF926EFC800 50] iPhone5S, [00000AF926B38C00][00000AF926E92800 50] iPhone6Plus, [00000AF926B3AD40][00000AF926EF5000 50] iPhone6S, [00000AF926B39D80][00000AF926F00000 50] iPhone6SPlus, [00000AF926B36AC0][00000AF926F05000 50] iPhone7Plus, [00000AF926B37540][00000AF926F07800 50] iPhoneSE, [00000AF926B35B00][00000AF926F0A000 50] iPhone8, [00000AF926B36900][00000AF926F0C800 50] iPhone8Plus, [00000AF926B34B40][00000AF926EA2800 50] iPhoneX, [00000AF926B3BEC0][00000AF926E80000 50] iPhoneXS, [00000AF926B34EC0][00000AF926E85000 50] iPhoneXSMax, [00000AF926B355C0][00000AF926E87800 50] iPhoneXR, [00000AF926B36580][00000AF926E8A000 50] iPhone11, [00000AF926B3BD00][00000AF926E8C800 50] iPhone11Pro, [00000AF926B39BC0][00000AF926F02800 50] iPhone11ProMax, [00000AF926B37C40][00000AF926F10000 50] iPhoneSE2, [00000AF926B3A480][00000AF926F15000 50] iPhone12Mini, [00000AF926B38500][00000AF926F17800 50] iPhone12, [00000AF926B36740][00000AF926F1A000 50] iPhone12Pro, [00000AF926B3A640][00000AF926F1C800 50] iPhone12ProMax, [00000AF926B3B0C0][00000AF926E82800 50] iPadPro105, [00000AF926B3A2C0][00000AF926F20000 50] iPadPro129, [00000AF926B39840][00000AF926F25000 50] iPadPro97, [00000AF926B36E40][00000AF926F27800 50] iPadPro2_129, [00000AF926B38880][00000AF926F2A000 50] iPad5, [00000AF926B34440][00000AF926F2C800 50] iPad6, [00000AF926B3C940][00000AF926F12800 50] iPad7, [00000AF926B39F40][00000AF926F30000 50] iPad8, [00000AF926B36040][00000AF926F35000 50] iPadPro11, [00000AF926B37E00][00000AF926F37800 50] iPadPro2_11, [00000AF926B35940][00000AF926F3A000 50] iPadPro3_129, [00000AF926B394C0][00000AF926F3C800 50] iPadPro4_129, [00000AF926B39140][00000AF926F22800 50] AppleTV, [00000AF926B36200][00000AF926F40000 50] AppleTV4K, [00000AF926B37700][00000AF926F45000 50] TVOS, [00000AF926F60700][00000AF926F4A000 50] Mac, [00000AF926F60A80][00000AF926F47800 50] MacEditor, [00000AF926F63640][00000AF926F4C800 50] MacClient, [00000AF926F632C0][00000AF926F32800 50] MacServer, [00000AF926F66AC0][00000AF926E72800 50] Linux, [00000AF926F66900][00000AF926E70000 50] LinuxEditor, [00000AF926F62BC0][00000AF926E77800 50] LinuxArm64Editor, [00000AF926F66040][00000AF926E7A000 50] LinuxArm64, [00000AF926F60E00][00000AF926E7C800 50] LinuxClient, [00000AF926F65940][00000AF926F42800 50] LinuxArm64Client, [00000AF926F63480][00000AF926F70000 50] LinuxServer, [00000AF926F64440][00000AF926F75000 50] LinuxArm64Server, [00000AF926F601C0][00000AF926F77800 50] Android, [00000AF926F65080][00000AF926F7A000 50] Android_Preview_OpenGL, [00000AF926F62300][00000AF926F7C800 50] Android_Preview_Vulkan, [00000AF926F64D00][00000AF926E75000 50] Android_Low, [00000AF926F608C0][00000AF926F80000 50] Android_Mid, [00000AF926F640C0][00000AF926F85000 50] Android_High, [00000AF926F62840][00000AF926F87800 50] Android_Default, [00000AF926F63F00][00000AF926F8A000 50] Android_Adreno4xx, [00000AF926F624C0][00000AF926F8C800 50] Android_Adreno5xx_Low, [00000AF926F66C80][00000AF926F72800 50] Android_Adreno5xx, [00000AF926F60380][00000AF926F90000 50] Android_Adreno6xx, [00000AF926F65240][00000AF926F95000 50] Android_Adreno6xx_Vulkan, [00000AF926F65400][00000AF926F97800 50] Android_Mali_T6xx, [00000AF926F61880][00000AF926F9A000 50] Android_Mali_T7xx, [00000AF926F60000][00000AF926F9C800 50] Android_Mali_T8xx, [00000AF926F61180][00000AF926F82800 50] Android_Mali_G71, [00000AF926F66580][00000AF926FA0000 50] Android_Mali_G72, [00000AF926F64600][00000AF926FA5000 50] Android_Mali_G72_Vulkan, [00000AF926F62680][00000AF926FA7800 50] Android_Mali_G76, [00000AF926F65780][00000AF926FAA000 50] Android_Mali_G76_Vulkan, [00000AF926F62D80][00000AF926FAC800 50] Android_Mali_G77, [00000AF926F61A40][00000AF926F92800 50] Android_Mali_G77_Vulkan, [00000AF926F61C00][00000AF926FB0000 50] Android_Mali_G78, [00000AF926F64280][00000AF926FB5000 50] Android_Mali_G78_Vulkan, [00000AF926F65CC0][00000AF926FB7800 50] Android_Mali_G710, [00000AF926F66200][00000AF926FBA000 50] Android_Mali_G710_Vulkan, [00000AF926F65E80][00000AF926FBC800 50] Android_Vulkan_SM5, [00000AF926F63100][00000AF926FA2800 50] Android_PowerVR_G6xxx, [00000AF926F66740][00000AF926FC0000 50] Android_PowerVR_GT7xxx, [00000AF926F60FC0][00000AF926FC5000 50] Android_PowerVR_GE8xxx, [00000AF926F61DC0][00000AF926FC7800 50] Android_PowerVR_GM9xxx, [00000AF926F655C0][00000AF926FCA000 50] Android_PowerVR_GM9xxx_Vulkan, [00000AF926F62140][00000AF926FCC800 50] Android_TegraK1, [00000AF926F62A00][00000AF926FB2800 50] Android_Unknown_Vulkan, [00000AF926F63800][00000AF926FD0000 50] Oculus_Quest, [00000AF926F678C0][00000AF926FD5000 50] Oculus_Quest2, [00000AF926F616C0][00000AF926FD7800 50] HoloLens, 
+[2022.03.14-17.50.48:023][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.03.14-17.50.48:046][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.03.14-17.50.48:284][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.14-17.50.48:284][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.14-17.50.48:284][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.14-17.50.48:284][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.14-17.50.48:284][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.14-17.50.48:288][  0]LogStaticMesh: StaticMesh /Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM should be resaved to improve async compilation performance.
+[2022.03.14-17.50.48:301][  0]LogStaticMesh: StaticMesh /Engine/EngineMeshes/Sphere.Sphere should be resaved to improve async compilation performance.
+[2022.03.14-17.50.48:304][  0]LogNetVersion: UE5Project2Upborne 1.0.0, NetCL: 16433597, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1206917824)
+[2022.03.14-17.50.48:441][  0]LogSlate: Border
+[2022.03.14-17.50.48:441][  0]LogSlate: BreadcrumbButton
+[2022.03.14-17.50.48:441][  0]LogSlate: Default
+[2022.03.14-17.50.48:441][  0]LogSlate: Icons.Save
+[2022.03.14-17.50.48:441][  0]LogSlate: Icons.Toolbar.Settings
+[2022.03.14-17.50.48:441][  0]LogSlate: ListView
+[2022.03.14-17.50.48:441][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.03.14-17.50.48:441][  0]LogSlate: SoftwareCursor_Grab
+[2022.03.14-17.50.48:441][  0]LogSlate: TableView.DarkRow
+[2022.03.14-17.50.48:441][  0]LogSlate: TableView.Row
+[2022.03.14-17.50.48:441][  0]LogSlate: TreeView
+[2022.03.14-17.50.48:632][  0]LogStaticMesh: StaticMesh /Engine/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.S_1_Unit_Plane should be resaved to improve async compilation performance.
+[2022.03.14-17.50.48:690][  0]LogStaticMesh: StaticMesh /Engine/EditorMeshes/EditorCube.EditorCube should be resaved to improve async compilation performance.
+[2022.03.14-17.50.48:691][  0]LogStaticMesh: StaticMesh /Engine/EditorMeshes/EditorSphere.EditorSphere should be resaved to improve async compilation performance.
+[2022.03.14-17.50.48:692][  0]LogStaticMesh: StaticMesh /Engine/EditorMeshes/EditorPlane.EditorPlane should be resaved to improve async compilation performance.
+[2022.03.14-17.50.48:693][  0]LogStaticMesh: StaticMesh /Engine/EditorMeshes/EditorCylinder.EditorCylinder should be resaved to improve async compilation performance.
+[2022.03.14-17.50.48:694][  0]SourceControl: Source control is disabled
+[2022.03.14-17.50.48:724][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.03.14-17.50.48:726][  0]SourceControl: Source control is disabled
+[2022.03.14-17.50.48:726][  0]SourceControl: Source control is disabled
+[2022.03.14-17.50.48:760][  0]LogStaticMesh: StaticMesh /Engine/EditorLandscapeResources/SplineEditorMesh.SplineEditorMesh should be resaved to improve async compilation performance.
+[2022.03.14-17.50.48:844][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.14-17.50.48:856][  0]LogUObjectArray: 20705 objects as part of root set at end of initial load.
+[2022.03.14-17.50.48:857][  0]LogUObjectAllocator: 5630496 out of 0 bytes used by permanent object pool.
+[2022.03.14-17.50.48:857][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.14-17.50.49:149][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2022.03.14-17.50.49:223][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 5FBC86884B599CDEEA64E68A1A7D6711 | Instance: 7E4DFB26408EF9ACFC8F51BE95014845 (DESKTOP-L9BBC3K-12880).
+[2022.03.14-17.50.49:264][  0]LogPython: Using Python 3.9.7
+[2022.03.14-17.50.50:268][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.14-17.50.50:276][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.14-17.50.51:027][  0]LogUProjectInfo: Found projects:
+[2022.03.14-17.50.51:358][  0]LogOpenImageDenoise: OIDN starting up
+[2022.03.14-17.50.51:409][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.14-17.50.51:423][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.14-17.50.51:423][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.14-17.50.51:592][  0]LogCollectionManager: Loaded 0 collections in 0.001995 seconds
+[2022.03.14-17.50.51:689][  0]LogFileCache: Scanning file cache for directory 'C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/Collections/' took 0.00s
+[2022.03.14-17.50.51:689][  0]LogFileCache: Scanning file cache for directory 'C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/Developers/didac/Collections/' took 0.00s
+[2022.03.14-17.50.51:689][  0]LogFileCache: Scanning file cache for directory 'C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/Collections/' took 0.00s
+[2022.03.14-17.50.51:689][  0]LogOcInput: OculusInput pre-init called
+[2022.03.14-17.50.52:167][  0]LogEngine: Initializing Engine...
+[2022.03.14-17.50.52:178][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.03.14-17.50.52:178][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.14-17.50.52:179][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.03.14-17.50.52:181][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.14-17.50.52:469][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.14-17.50.52:469][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.03.14-17.50.52:478][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.14-17.50.52:502][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.14-17.50.52:503][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.14-17.50.52:522][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.03.14-17.50.52:522][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.03.14-17.50.52:523][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.03.14-17.50.52:523][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.14-17.50.52:523][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.14-17.50.52:523][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.14-17.50.52:523][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.14-17.50.52:523][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.14-17.50.52:523][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.14-17.50.52:523][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.14-17.50.52:523][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.14-17.50.52:523][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.14-17.50.52:523][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.14-17.50.52:524][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.14-17.50.52:524][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.14-17.50.52:524][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.14-17.50.52:524][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.14-17.50.52:623][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2022.03.14-17.50.52:623][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.14-17.50.52:626][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.14-17.50.52:626][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.14-17.50.52:626][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.03.14-17.50.52:626][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.03.14-17.50.52:628][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.03.14-17.50.52:628][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.03.14-17.50.52:628][  0]LogInit: FAudioDevice initialized.
+[2022.03.14-17.50.52:628][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.14-17.50.52:628][  0]LogNetVersion: Set ProjectVersion to 0001. Version Checksum will be recalculated on next use.
+[2022.03.14-17.50.52:628][  0]LogInit: Texture streaming: Enabled
+[2022.03.14-17.50.52:654][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.0-19044958+++UE5+Release-5.0
+[2022.03.14-17.50.52:662][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.14-17.50.52:689][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.03.14-17.50.52:696][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.03.14-17.50.52:696][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.03.14-17.50.54:484][  0]LogLiveCoding: Display: First instance in process group "UE_UE5Project2Upborne_0x9f25e77e", spawning console
+[2022.03.14-17.50.54:484][  0]LogLiveCoding: Display: Waiting for server
+[2022.03.14-17.50.54:484][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.03.14-17.50.54:527][  0]LogInit: Transaction tracking system initialized
+[2022.03.14-17.50.54:594][  0]BlueprintLog: New page: Editor Load
+[2022.03.14-17.50.54:760][  0]LocalizationService: Localization service is disabled
+[2022.03.14-17.50.54:801][  0]TimingProfiler: Initialize
+[2022.03.14-17.50.54:801][  0]TimingProfiler: OnSessionChanged
+[2022.03.14-17.50.54:801][  0]LoadingProfiler: Initialize
+[2022.03.14-17.50.54:801][  0]LoadingProfiler: OnSessionChanged
+[2022.03.14-17.50.54:801][  0]NetworkingProfiler: Initialize
+[2022.03.14-17.50.54:801][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.14-17.50.54:801][  0]MemoryProfiler: Initialize
+[2022.03.14-17.50.54:801][  0]MemoryProfiler: OnSessionChanged
+[2022.03.14-17.50.55:434][  0]LogFileCache: Scanning file cache for directory 'C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/' took 0.01s
+[2022.03.14-17.50.55:434][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.03.14-17.50.55:661][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.14-17.50.55:663][  0]LogUnrealEdMisc: Loading editor; pre map load, took 14.255
+[2022.03.14-17.50.55:663][  0]Cmd: MAP LOAD FILE="../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/01-Levels/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.14-17.50.55:663][  0]LightingResults: New page: Lighting Build
+[2022.03.14-17.50.55:668][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.14-17.50.55:668][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.14-17.50.55:669][  0]MapCheck: New page: Map Check
+[2022.03.14-17.50.55:669][  0]LightingResults: New page: Lighting Build
+[2022.03.14-17.50.55:677][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.14-17.50.55:680][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.03.14-17.50.56:423][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2022.03.14-17.50.56:424][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.03.14-17.50.56:424][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.14-17.50.56:424][  0]LogAIModule: Creating AISystem for world MainLevel
+[2022.03.14-17.50.56:508][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.14-17.50.56:533][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.03.14-17.50.56:534][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.14-17.50.56:534][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,328ms to complete.
+[2022.03.14-17.50.56:534][  0]LogFileHelpers: Loading map 'MainLevel' took 0.871
+[2022.03.14-17.50.56:553][  0]LogUnrealEdMisc: Total Editor Startup Time, took 15.144
+[2022.03.14-17.50.56:553][  0]LogShaderCompilers: Display: ================================================
+[2022.03.14-17.50.56:553][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.14-17.50.56:553][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.03.14-17.50.56:553][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.03.14-17.50.56:553][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.03.14-17.50.56:553][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.03.14-17.50.56:553][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.03.14-17.50.56:553][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.03.14-17.50.56:553][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.03.14-17.50.56:553][  0]LogShaderCompilers: Display: ================================================
+[2022.03.14-17.50.56:696][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.14-17.50.56:703][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.14-17.50.56:711][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.14-17.50.56:718][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.14-17.50.56:799][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.03.14-17.50.56:799][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.14-17.50.56:805][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.03.14-17.50.56:805][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.14-17.50.56:823][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.03.14-17.50.56:823][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.14-17.50.56:854][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.03.14-17.50.56:854][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.14-17.50.56:866][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.03.14-17.50.56:866][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.14-17.50.56:881][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.03.14-17.50.56:881][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.14-17.50.56:895][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdv.upack', mount point: 'root:/'
+[2022.03.14-17.50.56:895][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.14-17.50.56:904][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.03.14-17.50.56:904][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.14-17.50.56:912][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.03.14-17.50.56:912][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.14-17.50.57:070][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.14-17.50.57:076][  0]LogSlate: Took 0.001119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.14-17.50.57:077][  0]LogSlate: Took 0.000660 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.14-17.50.57:399][  0]LogStall: Startup...
+[2022.03.14-17.50.57:401][  0]LogStall: Startup complete.
+[2022.03.14-17.50.57:411][  0]LogLoad: (Engine Initialization) Total time: 16.00 seconds
+[2022.03.14-17.50.57:411][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.14-17.50.57:502][  0]LogAssetRegistry: Asset discovery search completed in 10.2213 seconds
+[2022.03.14-17.50.57:515][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.03.14-17.50.57:557][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.14-17.52.46:362][360]LogDerivedDataCache: C:/Users/didac/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.423 and deleted 0 file(s) with total size 0 MiB.
+[2022.03.14-17.56.32:952][ 75]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.14-17.59.39:290][186]LogSlate: Took 0.001429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.14-17.59.39:303][186]LogSlate: Took 0.001002 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.14-18.00.23:448][842]LogContentBrowser: Attempting asset rename: 07-Animations -> 07-Videos+Animations
+[2022.03.14-18.00.32:042][261]LogTexture: Display: Building textures: /Game/00-Content/06-Lights/three-lobe-vee.three-lobe-vee (RGBA16F, 256X256 X1X1) (Required Memory Estimate: 2.500 MB), EncodeSpeed: Fast
+[2022.03.14-18.00.32:042][261]LogTexture: Display: Building textures: /Game/00-Content/06-Lights/display.display (RGBA16F, 256X256 X1X1) (Required Memory Estimate: 2.500 MB), EncodeSpeed: Fast
+[2022.03.14-18.00.34:659][472]LogPackageLocalizationCache: Processed 38 localized package path(s) for 1 prioritized culture(s) in 0.006883 seconds
+[2022.03.14-18.00.34:663][472]LogSavePackage: Moving output files for package: /Game/00-Content/06-SFX+Particles/x-arrow
+[2022.03.14-18.00.34:663][472]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/x-arrowBD97B3EC4FEF8D90AA00C89B3565D919.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/06-SFX+Particles/x-arrow.uasset'
+[2022.03.14-18.00.34:665][472]LogSavePackage: Moving output files for package: /Game/00-Content/06-Lights/x-arrow
+[2022.03.14-18.00.34:666][472]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/x-arrow2E89C85D428FB9BC4DE30590D69812AF.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/06-Lights/x-arrow.uasset'
+[2022.03.14-18.00.34:670][472]LogSavePackage: Moving output files for package: /Game/00-Content/06-SFX+Particles/defined-spot
+[2022.03.14-18.00.34:670][472]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/defined-spot98ADC1BB4944DD80E11F06A208B7BDCB.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/06-SFX+Particles/defined-spot.uasset'
+[2022.03.14-18.00.34:672][472]LogSavePackage: Moving output files for package: /Game/00-Content/06-Lights/defined-spot
+[2022.03.14-18.00.34:673][472]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/defined-spotF028B8F6464351C7F128FA90B794DD1F.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/06-Lights/defined-spot.uasset'
+[2022.03.14-18.00.34:684][472]LogSavePackage: Moving output files for package: /Game/00-Content/06-SFX+Particles/display
+[2022.03.14-18.00.34:684][472]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/display0F2A3F75468516C076FDDF9A74D51A47.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/06-SFX+Particles/display.uasset'
+[2022.03.14-18.00.34:686][472]LogSavePackage: Moving output files for package: /Game/00-Content/06-Lights/display
+[2022.03.14-18.00.34:687][472]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/display212D29C2448DA05FDBCA4687579812B8.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/06-Lights/display.uasset'
+[2022.03.14-18.00.34:693][472]LogSavePackage: Moving output files for package: /Game/00-Content/06-SFX+Particles/three-lobe-vee
+[2022.03.14-18.00.34:693][472]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/three-lobe-vee3C077F7A49AC5BD31D9D669E8CA91DDE.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/06-SFX+Particles/three-lobe-vee.uasset'
+[2022.03.14-18.00.34:696][472]LogSavePackage: Moving output files for package: /Game/00-Content/06-Lights/three-lobe-vee
+[2022.03.14-18.00.34:698][472]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/three-lobe-vee243269BF41A7B3E2F7264F81BE0F1FBB.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/06-Lights/three-lobe-vee.uasset'
+[2022.03.14-18.00.35:468][472]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.14-18.00.35:468][472]LogContentValidation: Display: Validating TextureLightProfile /Game/00-Content/06-SFX+Particles/x-arrow.x-arrow
+[2022.03.14-18.00.35:468][472]LogContentValidation: Display: Validating TextureLightProfile /Game/00-Content/06-SFX+Particles/defined-spot.defined-spot
+[2022.03.14-18.00.35:468][472]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/06-Lights/three-lobe-vee.three-lobe-vee
+[2022.03.14-18.00.35:468][472]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/06-Lights/display.display
+[2022.03.14-18.00.35:468][472]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/06-Lights/defined-spot.defined-spot
+[2022.03.14-18.00.35:468][472]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/06-Lights/x-arrow.x-arrow
+[2022.03.14-18.00.35:468][472]LogContentValidation: Display: Validating TextureLightProfile /Game/00-Content/06-SFX+Particles/three-lobe-vee.three-lobe-vee
+[2022.03.14-18.00.35:468][472]LogContentValidation: Display: Validating TextureLightProfile /Game/00-Content/06-SFX+Particles/display.display
+[2022.03.14-18.00.49:041][189]LogContentBrowser: Attempting asset rename: 06-SFX+Particles -> 06-SFX+IES+Particles
+[2022.03.14-18.00.49:801][189]LogSavePackage: Moving output files for package: /Game/00-Content/06-Lights/x-arrow
+[2022.03.14-18.00.49:802][189]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/x-arrowF3D239024B9668E386700EA8D072A81A.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/06-Lights/x-arrow.uasset'
+[2022.03.14-18.00.49:804][189]LogSavePackage: Moving output files for package: /Game/00-Content/06-Lights/defined-spot
+[2022.03.14-18.00.49:805][189]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/defined-spot3863866D4630DB65E77D86ACE34117D4.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/06-Lights/defined-spot.uasset'
+[2022.03.14-18.00.49:807][189]LogSavePackage: Moving output files for package: /Game/00-Content/06-Lights/three-lobe-vee
+[2022.03.14-18.00.49:808][189]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/three-lobe-vee576A72FE495C7FB1F29096AE73B670C9.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/06-Lights/three-lobe-vee.uasset'
+[2022.03.14-18.00.49:811][189]LogSavePackage: Moving output files for package: /Game/00-Content/06-Lights/display
+[2022.03.14-18.00.49:812][189]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/display2D8CBFFD481AA44D9B8F3685D6D95715.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/06-Lights/display.uasset'
+[2022.03.14-18.00.49:816][189]LogSavePackage: Moving output files for package: /Game/00-Content/06-SFX+IES+Particles/x-arrow
+[2022.03.14-18.00.49:816][189]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/x-arrow534400674F4FEECB5C995FAF0015D049.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/06-SFX+IES+Particles/x-arrow.uasset'
+[2022.03.14-18.00.49:819][189]LogSavePackage: Moving output files for package: /Game/00-Content/06-SFX+IES+Particles/defined-spot
+[2022.03.14-18.00.49:819][189]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/defined-spot0CEE3CF047CC9178B11ED5BD5863383F.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/06-SFX+IES+Particles/defined-spot.uasset'
+[2022.03.14-18.00.49:822][189]LogSavePackage: Moving output files for package: /Game/00-Content/06-SFX+IES+Particles/three-lobe-vee
+[2022.03.14-18.00.49:822][189]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/three-lobe-vee5FA9012E4BF510709153E09929A6945E.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/06-SFX+IES+Particles/three-lobe-vee.uasset'
+[2022.03.14-18.00.49:825][189]LogSavePackage: Moving output files for package: /Game/00-Content/06-SFX+IES+Particles/display
+[2022.03.14-18.00.49:825][189]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/displayC228041D4D5CFC23B45E7986BB0DB25D.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/06-SFX+IES+Particles/display.uasset'
+[2022.03.14-18.00.50:286][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.03.14-18.00.50:296][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.03.14-18.00.50:304][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.03.14-18.00.50:432][189]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/06-SFX+Particles/defined-spot.uasset'
+[2022.03.14-18.00.50:432][189]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/06-SFX+Particles/display.uasset'
+[2022.03.14-18.00.50:432][189]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/06-SFX+Particles/three-lobe-vee.uasset'
+[2022.03.14-18.00.50:432][189]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/06-SFX+Particles/x-arrow.uasset'
+[2022.03.14-18.00.50:450][189]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.14-18.00.50:450][189]LogContentValidation: Display: Validating TextureLightProfile /Game/00-Content/06-SFX+IES+Particles/x-arrow.x-arrow
+[2022.03.14-18.00.50:450][189]LogContentValidation: Display: Validating TextureLightProfile /Game/00-Content/06-SFX+IES+Particles/defined-spot.defined-spot
+[2022.03.14-18.00.50:450][189]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/06-Lights/three-lobe-vee.three-lobe-vee
+[2022.03.14-18.00.50:450][189]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/06-Lights/display.display
+[2022.03.14-18.00.50:450][189]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/06-Lights/defined-spot.defined-spot
+[2022.03.14-18.00.50:450][189]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/06-Lights/x-arrow.x-arrow
+[2022.03.14-18.00.50:450][189]LogContentValidation: Display: Validating TextureLightProfile /Game/00-Content/06-SFX+IES+Particles/three-lobe-vee.three-lobe-vee
+[2022.03.14-18.00.50:450][189]LogContentValidation: Display: Validating TextureLightProfile /Game/00-Content/06-SFX+IES+Particles/display.display
+[2022.03.14-18.00.53:127][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.03.14-18.00.55:310][384]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.14-18.00.55:326][384]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/00-Content/06-Lights/three-lobe-vee.three-lobe-vee
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/00-Content/06-Lights/display.display
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/00-Content/06-Lights/defined-spot.defined-spot
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/00-Content/06-Lights/x-arrow.x-arrow
+	Asset Type: ObjectRedirector
+[2022.03.14-18.00.55:602][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.14-18.00.55:612][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.03.14-18.00.55:622][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.03.14-18.00.55:853][384]SourceControl: Error: Updated 4 paths from the index
+[2022.03.14-18.00.56:037][384]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/06-Lights/defined-spot.uasset'
+[2022.03.14-18.00.56:037][384]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/06-Lights/display.uasset'
+[2022.03.14-18.00.56:037][384]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/06-Lights/three-lobe-vee.uasset'
+[2022.03.14-18.00.56:037][384]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/06-Lights/x-arrow.uasset'
+[2022.03.14-18.00.56:056][385]LogAssetRegistry: Warning: C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/06-Lights/defined-spot.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2022.03.14-18.00.56:056][385]LogAssetRegistry: Warning: C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/06-Lights/display.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2022.03.14-18.00.56:056][385]LogAssetRegistry: Warning: C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/06-Lights/three-lobe-vee.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2022.03.14-18.00.56:056][385]LogAssetRegistry: Warning: C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/06-Lights/x-arrow.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2022.03.14-18.01.16:773][419]LogContentBrowser: Attempting asset rename: 03-Models+Textures -> 03-Models+Textures
+[2022.03.14-18.01.28:403][275]LogContentBrowser: Attempting asset rename: 03-Models+Textures -> 03-Models
+[2022.03.14-18.01.30:620][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models/99-Testing/01-Reception/Table/T_table_01_BC
+[2022.03.14-18.01.30:620][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/T_table_01_BCAA5156B5408A94DC2BDD718FC641D4F9.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/01-Reception/Table/T_table_01_BC.uasset'
+[2022.03.14-18.01.30:623][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_BC
+[2022.03.14-18.01.30:624][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/T_table_01_BCF8FB19994A99166FD58FFCA9146BBCDD.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_BC.uasset'
+[2022.03.14-18.01.31:465][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models/99-Testing/01-Reception/Table/T_table_01_N
+[2022.03.14-18.01.31:465][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/T_table_01_N70A4721D44C867D20CDF59A98766CE47.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/01-Reception/Table/T_table_01_N.uasset'
+[2022.03.14-18.01.31:467][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_N
+[2022.03.14-18.01.31:468][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/T_table_01_N7F629A324474F678F78E7D90E2C6CC09.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_N.uasset'
+[2022.03.14-18.01.32:568][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models/99-Testing/01-Reception/Table/T_table_01_ORM
+[2022.03.14-18.01.32:568][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/T_table_01_ORMAFEA17FA4269CA041B2A308EF1FE27DC.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/01-Reception/Table/T_table_01_ORM.uasset'
+[2022.03.14-18.01.32:570][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_ORM
+[2022.03.14-18.01.32:571][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/T_table_01_ORM0E679C6D4A11F5341B7A6B90414A894E.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_ORM.uasset'
+[2022.03.14-18.01.32:576][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models/99-Testing/01-Reception/Table/Material
+[2022.03.14-18.01.32:576][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/Material8D1A316A4B6D45B4515ADC942BDE1C5A.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/01-Reception/Table/Material.uasset'
+[2022.03.14-18.01.32:578][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/Material
+[2022.03.14-18.01.32:579][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/Material04F29C864160A3F5203834A8BADDA8C7.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/Material.uasset'
+[2022.03.14-18.01.32:615][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models/99-Testing/01-Reception/Table/Taula
+[2022.03.14-18.01.32:615][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/TaulaFEE0E1FF46F528A3CBFA239B8E0D9975.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/01-Reception/Table/Taula.uasset'
+[2022.03.14-18.01.32:617][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/Taula
+[2022.03.14-18.01.32:618][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/TaulaB3E356FB42BD926C283A72961ED59CA7.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/Taula.uasset'
+[2022.03.14-18.01.32:622][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models/99-Testing/HighlightMaterial
+[2022.03.14-18.01.32:622][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/HighlightMaterialF356005D40408625BD722B994B0940C9.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/HighlightMaterial.uasset'
+[2022.03.14-18.01.32:624][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/HighlightMaterial
+[2022.03.14-18.01.32:625][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/HighlightMaterialDE0443A64F5F7A678EEB11B8D28711D8.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/HighlightMaterial.uasset'
+[2022.03.14-18.01.32:627][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models/99-Testing/HighlightMaterial_Inst
+[2022.03.14-18.01.32:627][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/HighlightMaterial_InstE3694ACB412922C505013198772BDBB9.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/HighlightMaterial_Inst.uasset'
+[2022.03.14-18.01.32:631][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/HighlightMaterial_Inst
+[2022.03.14-18.01.32:633][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/HighlightMaterial_InstB3AE9AED4A1BCEE2F1F61AA5B2A1F74B.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/HighlightMaterial_Inst.uasset'
+[2022.03.14-18.01.32:639][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models/99-Testing/TripleTextureForVertexPaint
+[2022.03.14-18.01.32:639][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/TripleTextureForVertexPaint55EB06D44F0E740BC4C4188F8869E089.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/TripleTextureForVertexPaint.uasset'
+[2022.03.14-18.01.32:641][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/TripleTextureForVertexPaint
+[2022.03.14-18.01.32:642][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/TripleTextureForVertexPaint501D2FB046129B223A2C2685F79FFE15.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/TripleTextureForVertexPaint.uasset'
+[2022.03.14-18.01.32:646][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models/99-Testing/TextureThatFollowsScreen
+[2022.03.14-18.01.32:646][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/TextureThatFollowsScreen8503A5F141B2F2B7B29A48AE49F54E9A.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/TextureThatFollowsScreen.uasset'
+[2022.03.14-18.01.32:648][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/TextureThatFollowsScreen
+[2022.03.14-18.01.32:649][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/TextureThatFollowsScreen47C10C3C4200248878FAA18977F0B9F2.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/TextureThatFollowsScreen.uasset'
+[2022.03.14-18.01.32:654][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models/99-Testing/ProjectedTextureFrom2WorldAxis
+[2022.03.14-18.01.32:654][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/ProjectedTextureFrom2WorldAxis070A628444B8BCBBBC2FE9911742620F.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/ProjectedTextureFrom2WorldAxis.uasset'
+[2022.03.14-18.01.32:656][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/ProjectedTextureFrom2WorldAxis
+[2022.03.14-18.01.32:657][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/ProjectedTextureFrom2WorldAxis7234EE274D1DA4A292E6069B61E8551A.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/ProjectedTextureFrom2WorldAxis.uasset'
+[2022.03.14-18.01.32:660][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models/99-Testing/Default__InteractInterface_C
+[2022.03.14-18.01.32:660][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/Default__InteractInterface_CD6BDEB0243C0F72C5C8A5B9A1BCE35DD.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/Default__InteractInterface_C.uasset'
+[2022.03.14-18.01.32:661][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/InteractInterface
+[2022.03.14-18.01.32:662][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/InteractInterface36D86C654ACEEB144EACA895CDDA06C4.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/InteractInterface.uasset'
+[2022.03.14-18.01.32:666][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models/99-Testing/InteractInterface
+[2022.03.14-18.01.32:666][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/InteractInterface809F407243196C07DCB40BAEA5FCD269.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/InteractInterface.uasset'
+[2022.03.14-18.01.32:668][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models/99-Testing/InteractInterface_C
+[2022.03.14-18.01.32:668][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/InteractInterface_C2163A9FF40416BAD24D1489C2BF7B36B.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/InteractInterface_C.uasset'
+[2022.03.14-18.01.32:671][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models/99-Testing/DoubleTextureForVertexPaint
+[2022.03.14-18.01.32:671][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/DoubleTextureForVertexPaint984F22674D16FBDE10B139A9E32CFC56.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/DoubleTextureForVertexPaint.uasset'
+[2022.03.14-18.01.32:673][275]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/DoubleTextureForVertexPaint
+[2022.03.14-18.01.32:674][275]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/DoubleTextureForVertexPaintC0CE959D4419202A327D05B108261D17.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/DoubleTextureForVertexPaint.uasset'
+[2022.03.14-18.01.36:448][275]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.14-18.01.36:448][275]LogContentValidation: Display: Validating Texture2D /Game/00-Content/03-Models/99-Testing/01-Reception/Table/T_table_01_BC.T_table_01_BC
+[2022.03.14-18.01.36:448][275]LogContentValidation: Display: Validating Texture2D /Game/00-Content/03-Models/99-Testing/01-Reception/Table/T_table_01_N.T_table_01_N
+[2022.03.14-18.01.36:448][275]LogContentValidation: Display: Validating Texture2D /Game/00-Content/03-Models/99-Testing/01-Reception/Table/T_table_01_ORM.T_table_01_ORM
+[2022.03.14-18.01.36:448][275]LogContentValidation: Display: Validating Material /Game/00-Content/03-Models/99-Testing/01-Reception/Table/Material.Material
+[2022.03.14-18.01.36:448][275]LogContentValidation: Display: Validating StaticMesh /Game/00-Content/03-Models/99-Testing/01-Reception/Table/Taula.Taula
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/DoubleTextureForVertexPaint.DoubleTextureForVertexPaint
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/InteractInterface.InteractInterface_C
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/InteractInterface.InteractInterface
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/InteractInterface.Default__InteractInterface_C
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/ProjectedTextureFrom2WorldAxis.ProjectedTextureFrom2WorldAxis
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/TextureThatFollowsScreen.TextureThatFollowsScreen
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/TripleTextureForVertexPaint.TripleTextureForVertexPaint
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/HighlightMaterial_Inst.HighlightMaterial_Inst
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/HighlightMaterial.HighlightMaterial
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/Taula.Taula
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/Material.Material
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_ORM.T_table_01_ORM
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_N.T_table_01_N
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_BC.T_table_01_BC
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating Material /Game/00-Content/03-Models/99-Testing/DoubleTextureForVertexPaint.DoubleTextureForVertexPaint
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models/99-Testing/InteractInterface_C.InteractInterface_C
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models/99-Testing/InteractInterface.InteractInterface
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models/99-Testing/Default__InteractInterface_C.Default__InteractInterface_C
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating Material /Game/00-Content/03-Models/99-Testing/ProjectedTextureFrom2WorldAxis.ProjectedTextureFrom2WorldAxis
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating Material /Game/00-Content/03-Models/99-Testing/HighlightMaterial.HighlightMaterial
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/00-Content/03-Models/99-Testing/HighlightMaterial_Inst.HighlightMaterial_Inst
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating Material /Game/00-Content/03-Models/99-Testing/TextureThatFollowsScreen.TextureThatFollowsScreen
+[2022.03.14-18.01.36:449][275]LogContentValidation: Display: Validating Material /Game/00-Content/03-Models/99-Testing/TripleTextureForVertexPaint.TripleTextureForVertexPaint
+[2022.03.14-18.01.44:405][954]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.14-18.01.44:416][954]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.14-18.01.44:427][955]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.03.14-18.02.12:480][375]LogContentBrowser: Attempting asset rename: NewFolder -> 03-Materials
+[2022.03.14-18.02.12:480][375]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.14-18.02.26:146][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.03.14-18.02.29:154][159]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.14-18.02.29:166][159]LogUObjectGlobals: Force Deleting 14 Package(s):
+	Asset Name: /Game/00-Content/03-Models+Textures/99-Testing/DoubleTextureForVertexPaint.DoubleTextureForVertexPaint
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/00-Content/03-Models+Textures/99-Testing/InteractInterface.InteractInterface_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/00-Content/03-Models+Textures/99-Testing/InteractInterface.InteractInterface
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/00-Content/03-Models+Textures/99-Testing/InteractInterface.Default__InteractInterface_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/00-Content/03-Models+Textures/99-Testing/ProjectedTextureFrom2WorldAxis.ProjectedTextureFrom2WorldAxis
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/00-Content/03-Models+Textures/99-Testing/TextureThatFollowsScreen.TextureThatFollowsScreen
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/00-Content/03-Models+Textures/99-Testing/TripleTextureForVertexPaint.TripleTextureForVertexPaint
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/00-Content/03-Models+Textures/99-Testing/HighlightMaterial_Inst.HighlightMaterial_Inst
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/00-Content/03-Models+Textures/99-Testing/HighlightMaterial.HighlightMaterial
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/Taula.Taula
+	Asset Type: ObjectRedirector
+[2022.03.14-18.02.29:598][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.03.14-18.02.29:612][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.03.14-18.02.29:621][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.03.14-18.02.30:991][159]SourceControl: Error: Updated 12 paths from the index
+[2022.03.14-18.02.31:799][159]SourceControl: Error: warning: could not open directory 'UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/': No such file or directory
+[2022.03.14-18.02.31:799][159]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/Material.uasset'
+[2022.03.14-18.02.31:799][159]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_BC.uasset'
+[2022.03.14-18.02.31:799][159]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_N.uasset'
+[2022.03.14-18.02.31:799][159]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_ORM.uasset'
+[2022.03.14-18.02.31:799][159]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/Taula.uasset'
+[2022.03.14-18.02.31:799][159]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/DoubleTextureForVertexPaint.uasset'
+[2022.03.14-18.02.31:799][159]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/HighlightMaterial.uasset'
+[2022.03.14-18.02.31:799][159]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/HighlightMaterial_Inst.uasset'
+[2022.03.14-18.02.31:799][159]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/InteractInterface.uasset'
+[2022.03.14-18.02.31:799][159]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/ProjectedTextureFrom2WorldAxis.uasset'
+[2022.03.14-18.02.31:799][159]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/TextureThatFollowsScreen.uasset'
+[2022.03.14-18.02.31:799][159]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/TripleTextureForVertexPaint.uasset'
+[2022.03.14-18.02.31:809][159]LogAssetRegistry: Warning: C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/Material.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2022.03.14-18.02.31:809][159]LogAssetRegistry: Warning: C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_BC.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2022.03.14-18.02.31:809][159]LogAssetRegistry: Warning: C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_N.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2022.03.14-18.02.31:809][159]LogAssetRegistry: Warning: C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_ORM.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2022.03.14-18.02.31:809][159]LogAssetRegistry: Warning: C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/Taula.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2022.03.14-18.02.31:809][159]LogAssetRegistry: Warning: C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/DoubleTextureForVertexPaint.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2022.03.14-18.02.31:809][159]LogAssetRegistry: Warning: C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/HighlightMaterial.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2022.03.14-18.02.31:809][159]LogAssetRegistry: Warning: C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/HighlightMaterial_Inst.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2022.03.14-18.02.31:809][159]LogAssetRegistry: Warning: C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/ProjectedTextureFrom2WorldAxis.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2022.03.14-18.02.31:810][159]LogAssetRegistry: Warning: C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/TextureThatFollowsScreen.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2022.03.14-18.02.31:810][159]LogAssetRegistry: Warning: C:/Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/TripleTextureForVertexPaint.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2022.03.14-18.02.48:341][935]LogContentBrowser: Attempting asset rename: 03-Models -> 03-Models+Textures
+[2022.03.14-18.02.50:826][935]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_BC
+[2022.03.14-18.02.50:826][935]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/T_table_01_BCE167F2934B9CC0C214DAC99290DCA34F.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_BC.uasset'
+[2022.03.14-18.02.51:653][935]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_N
+[2022.03.14-18.02.51:653][935]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/T_table_01_N85739BD94DA9510B0E14089D62D6EFFF.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_N.uasset'
+[2022.03.14-18.02.52:761][935]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_ORM
+[2022.03.14-18.02.52:761][935]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/T_table_01_ORM7681EDE748883DC998E82289BF3CF79C.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_ORM.uasset'
+[2022.03.14-18.02.52:764][935]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/Material
+[2022.03.14-18.02.52:764][935]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/Material7931146F4CED94B3EA05AC8C47B6B975.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/Material.uasset'
+[2022.03.14-18.02.52:773][935]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/Taula
+[2022.03.14-18.02.52:773][935]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/Taula7A0604C1403B9818DFEE928E9CA2F4F2.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/Taula.uasset'
+[2022.03.14-18.02.52:776][935]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/DoubleTextureForVertexPaint
+[2022.03.14-18.02.52:776][935]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/DoubleTextureForVertexPaint8DA6B723473CB3D95B78B59B615B8C16.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/DoubleTextureForVertexPaint.uasset'
+[2022.03.14-18.02.52:778][935]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/InteractInterface_C
+[2022.03.14-18.02.52:778][935]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/InteractInterface_C37A1054F455223B1629D0B92DCB05281.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/InteractInterface_C.uasset'
+[2022.03.14-18.02.52:780][935]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/InteractInterface
+[2022.03.14-18.02.52:781][935]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/InteractInterfaceA9A5DE8F415BF543F5D8F8A685F64E1D.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/InteractInterface.uasset'
+[2022.03.14-18.02.52:783][935]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/Default__InteractInterface_C
+[2022.03.14-18.02.52:783][935]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/Default__InteractInterface_CB28179C44E3E72DDF34A7EBB318D4750.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/Default__InteractInterface_C.uasset'
+[2022.03.14-18.02.52:787][935]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/ProjectedTextureFrom2WorldAxis
+[2022.03.14-18.02.52:787][935]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/ProjectedTextureFrom2WorldAxisE37349D84C46F36AB427188422AAF423.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/ProjectedTextureFrom2WorldAxis.uasset'
+[2022.03.14-18.02.52:790][935]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/HighlightMaterial
+[2022.03.14-18.02.52:791][935]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/HighlightMaterial465FDF8E480F59B78A3156AE68697621.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/HighlightMaterial.uasset'
+[2022.03.14-18.02.52:793][935]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/HighlightMaterial_Inst
+[2022.03.14-18.02.52:793][935]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/HighlightMaterial_InstCBCDCDB748D19FA27FA3DB83554D54C3.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/HighlightMaterial_Inst.uasset'
+[2022.03.14-18.02.52:796][935]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/TextureThatFollowsScreen
+[2022.03.14-18.02.52:796][935]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/TextureThatFollowsScreenF6EDF37B40688C41A47DCD91C2E0625C.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/TextureThatFollowsScreen.uasset'
+[2022.03.14-18.02.52:801][935]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/TripleTextureForVertexPaint
+[2022.03.14-18.02.52:801][935]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/TripleTextureForVertexPaintFD1A8AC9487B9A86278631B2E69EE280.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/TripleTextureForVertexPaint.uasset'
+[2022.03.14-18.02.55:206][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.03.14-18.02.55:215][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.03.14-18.02.55:226][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.03.14-18.02.55:478][935]SourceControl: Error: warning: could not open directory 'UE5Project2Upborne/Content/00-Content/03-Models/': No such file or directory
+[2022.03.14-18.02.55:478][935]SourceControl: Error: warning: could not open directory 'UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/01-Reception/': No such file or directory
+[2022.03.14-18.02.55:478][935]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/01-Reception/Table/Material.uasset'
+[2022.03.14-18.02.55:478][935]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/01-Reception/Table/T_table_01_BC.uasset'
+[2022.03.14-18.02.55:478][935]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/01-Reception/Table/T_table_01_N.uasset'
+[2022.03.14-18.02.55:478][935]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/01-Reception/Table/T_table_01_ORM.uasset'
+[2022.03.14-18.02.55:478][935]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/01-Reception/Table/Taula.uasset'
+[2022.03.14-18.02.55:478][935]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/Default__InteractInterface_C.uasset'
+[2022.03.14-18.02.55:478][935]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/DoubleTextureForVertexPaint.uasset'
+[2022.03.14-18.02.55:478][935]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/HighlightMaterial.uasset'
+[2022.03.14-18.02.55:478][935]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/HighlightMaterial_Inst.uasset'
+[2022.03.14-18.02.55:478][935]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/InteractInterface.uasset'
+[2022.03.14-18.02.55:478][935]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/InteractInterface_C.uasset'
+[2022.03.14-18.02.55:478][935]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/ProjectedTextureFrom2WorldAxis.uasset'
+[2022.03.14-18.02.55:478][935]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/TextureThatFollowsScreen.uasset'
+[2022.03.14-18.02.55:478][935]SourceControl: rm 'UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/TripleTextureForVertexPaint.uasset'
+[2022.03.14-18.02.55:492][935]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.14-18.02.55:492][935]LogContentValidation: Display: Validating Texture2D /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_BC.T_table_01_BC
+[2022.03.14-18.02.55:492][935]LogContentValidation: Display: Validating Texture2D /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_N.T_table_01_N
+[2022.03.14-18.02.55:492][935]LogContentValidation: Display: Validating Texture2D /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/T_table_01_ORM.T_table_01_ORM
+[2022.03.14-18.02.55:492][935]LogContentValidation: Display: Validating Material /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/Material.Material
+[2022.03.14-18.02.55:492][935]LogContentValidation: Display: Validating StaticMesh /Game/00-Content/03-Models+Textures/99-Testing/01-Reception/Table/Taula.Taula
+[2022.03.14-18.02.55:492][935]LogContentValidation: Display: Validating Material /Game/00-Content/03-Models+Textures/99-Testing/DoubleTextureForVertexPaint.DoubleTextureForVertexPaint
+[2022.03.14-18.02.55:492][935]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/InteractInterface_C.InteractInterface_C
+[2022.03.14-18.02.55:492][935]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/InteractInterface.InteractInterface
+[2022.03.14-18.02.55:492][935]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/Default__InteractInterface_C.Default__InteractInterface_C
+[2022.03.14-18.02.55:492][935]LogContentValidation: Display: Validating Material /Game/00-Content/03-Models+Textures/99-Testing/ProjectedTextureFrom2WorldAxis.ProjectedTextureFrom2WorldAxis
+[2022.03.14-18.02.55:492][935]LogContentValidation: Display: Validating Material /Game/00-Content/03-Models+Textures/99-Testing/HighlightMaterial.HighlightMaterial
+[2022.03.14-18.02.55:492][935]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/00-Content/03-Models+Textures/99-Testing/HighlightMaterial_Inst.HighlightMaterial_Inst
+[2022.03.14-18.02.55:492][935]LogContentValidation: Display: Validating Material /Game/00-Content/03-Models+Textures/99-Testing/TextureThatFollowsScreen.TextureThatFollowsScreen
+[2022.03.14-18.02.55:492][935]LogContentValidation: Display: Validating Material /Game/00-Content/03-Models+Textures/99-Testing/TripleTextureForVertexPaint.TripleTextureForVertexPaint
+[2022.03.14-18.02.55:758][938]SourceControl: Error: warning: could not open directory 'UE5Project2Upborne/Content/00-Content/03-Models/99-Testing/01-Reception/': No such file or directory
+[2022.03.14-18.02.55:759][938]SourceControl: Error: warning: could not open directory 'UE5Project2Upborne/Content/00-Content/03-Models/': No such file or directory
+[2022.03.14-18.03.10:998][707]LogSavePackage: Moving output files for package: /Game/00-Content/03-Materials/TripleTextureForVertexPaint
+[2022.03.14-18.03.10:998][707]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/TripleTextureForVertexPaint6436CAA042B8DB1D273A9799219E207F.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Materials/TripleTextureForVertexPaint.uasset'
+[2022.03.14-18.03.11:000][707]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/TripleTextureForVertexPaint
+[2022.03.14-18.03.11:001][707]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/TripleTextureForVertexPaint6AECE4D549CFA28C2A921B86A37D98B3.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/TripleTextureForVertexPaint.uasset'
+[2022.03.14-18.03.11:005][707]LogSavePackage: Moving output files for package: /Game/00-Content/03-Materials/DoubleTextureForVertexPaint
+[2022.03.14-18.03.11:005][707]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/DoubleTextureForVertexPaint32E456414CCF4FFAF52A25963F4256E5.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Materials/DoubleTextureForVertexPaint.uasset'
+[2022.03.14-18.03.11:007][707]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/DoubleTextureForVertexPaint
+[2022.03.14-18.03.11:008][707]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/DoubleTextureForVertexPaint5C03DC2A464F376306867F98FC9DD1D9.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/DoubleTextureForVertexPaint.uasset'
+[2022.03.14-18.03.11:012][707]LogSavePackage: Moving output files for package: /Game/00-Content/03-Materials/HighlightMaterial
+[2022.03.14-18.03.11:012][707]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/HighlightMaterial99219160405A2F7431F1EC8A3EC7F8A8.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Materials/HighlightMaterial.uasset'
+[2022.03.14-18.03.11:014][707]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/HighlightMaterial
+[2022.03.14-18.03.11:016][707]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/HighlightMaterial4B87FD054DECA3F170DC0DAFBA2D5097.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/HighlightMaterial.uasset'
+[2022.03.14-18.03.11:019][707]LogSavePackage: Moving output files for package: /Game/00-Content/03-Materials/HighlightMaterial_Inst
+[2022.03.14-18.03.11:019][707]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/HighlightMaterial_InstCFE4C4584200000A0E6677B003DA8B79.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Materials/HighlightMaterial_Inst.uasset'
+[2022.03.14-18.03.11:021][707]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/HighlightMaterial_Inst
+[2022.03.14-18.03.11:023][707]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/HighlightMaterial_Inst67BBF9F743397E39CFEBFE82D669A4E3.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/HighlightMaterial_Inst.uasset'
+[2022.03.14-18.03.11:027][707]LogSavePackage: Moving output files for package: /Game/00-Content/03-Materials/ProjectedTextureFrom2WorldAxis
+[2022.03.14-18.03.11:027][707]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/ProjectedTextureFrom2WorldAxisAF66456245E1329A8B9D99A008D36C69.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Materials/ProjectedTextureFrom2WorldAxis.uasset'
+[2022.03.14-18.03.11:029][707]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/ProjectedTextureFrom2WorldAxis
+[2022.03.14-18.03.11:031][707]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/ProjectedTextureFrom2WorldAxis3D1D3F454CF84C66CCF8D4B5EE579C00.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/ProjectedTextureFrom2WorldAxis.uasset'
+[2022.03.14-18.03.11:035][707]LogSavePackage: Moving output files for package: /Game/00-Content/03-Materials/TextureThatFollowsScreen
+[2022.03.14-18.03.11:035][707]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/TextureThatFollowsScreen6E377BB64EB49563362D5A8839DB6740.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Materials/TextureThatFollowsScreen.uasset'
+[2022.03.14-18.03.11:038][707]LogSavePackage: Moving output files for package: /Game/00-Content/03-Models+Textures/99-Testing/TextureThatFollowsScreen
+[2022.03.14-18.03.11:039][707]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/TextureThatFollowsScreen5F9545DE4C956B52BF3937AF8734B51F.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/03-Models+Textures/99-Testing/TextureThatFollowsScreen.uasset'
+[2022.03.14-18.03.12:017][707]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.14-18.03.12:017][707]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/TextureThatFollowsScreen.TextureThatFollowsScreen
+[2022.03.14-18.03.12:017][707]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/DoubleTextureForVertexPaint.DoubleTextureForVertexPaint
+[2022.03.14-18.03.12:017][707]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/TripleTextureForVertexPaint.TripleTextureForVertexPaint
+[2022.03.14-18.03.12:017][707]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/ProjectedTextureFrom2WorldAxis.ProjectedTextureFrom2WorldAxis
+[2022.03.14-18.03.12:017][707]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/HighlightMaterial_Inst.HighlightMaterial_Inst
+[2022.03.14-18.03.12:017][707]LogContentValidation: Display: Validating ObjectRedirector /Game/00-Content/03-Models+Textures/99-Testing/HighlightMaterial.HighlightMaterial
+[2022.03.14-18.03.12:017][707]LogContentValidation: Display: Validating Material /Game/00-Content/03-Materials/DoubleTextureForVertexPaint.DoubleTextureForVertexPaint
+[2022.03.14-18.03.12:017][707]LogContentValidation: Display: Validating Material /Game/00-Content/03-Materials/ProjectedTextureFrom2WorldAxis.ProjectedTextureFrom2WorldAxis
+[2022.03.14-18.03.12:017][707]LogContentValidation: Display: Validating Material /Game/00-Content/03-Materials/HighlightMaterial.HighlightMaterial
+[2022.03.14-18.03.12:017][707]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/00-Content/03-Materials/HighlightMaterial_Inst.HighlightMaterial_Inst
+[2022.03.14-18.03.12:017][707]LogContentValidation: Display: Validating Material /Game/00-Content/03-Materials/TextureThatFollowsScreen.TextureThatFollowsScreen
+[2022.03.14-18.03.12:017][707]LogContentValidation: Display: Validating Material /Game/00-Content/03-Materials/TripleTextureForVertexPaint.TripleTextureForVertexPaint
+[2022.03.14-18.03.15:941][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.03.14-18.03.16:060][978]LogSavePackage: Moving output files for package: /Game/00-Content/01-Levels/MainLevel
+[2022.03.14-18.03.16:061][978]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/MainLevel725F77A04D7C0BA1A09B1DB99F0AC63F.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/01-Levels/MainLevel.umap'
+[2022.03.14-18.03.16:078][978]LogFileHelpers: No new changes to save!
+[2022.03.14-18.03.16:088][978]AssetCheck: New page: Asset Save: MainLevel
+[2022.03.14-18.03.16:088][978]LogContentValidation: Display: Validating World /Game/00-Content/01-Levels/MainLevel.MainLevel
+[2022.03.14-18.03.23:860][409]LogContentBrowser: Attempting asset rename: 03-Materials -> 03-Materials
+[2022.03.14-18.03.49:043][ 85]LogSlate: Window 'Create Media Player' being destroyed
+[2022.03.14-18.03.49:049][ 85]LogContentBrowser: Deferred new asset file creation: NewMediaPlayer
+[2022.03.14-18.03.49:056][ 85]LogContentBrowser: Creating deferred item: NewMediaPlayer
+[2022.03.14-18.03.49:085][ 87]LogContentBrowser: Renaming the item being created (Deferred Item: NewMediaPlayer).
+[2022.03.14-18.03.54:345][330]LogContentBrowser: Attempting asset rename: NewMediaPlayer -> Ending1
+[2022.03.14-18.03.54:583][330]LogContentBrowser: End creating deferred item NewMediaPlayer
+[2022.03.14-18.03.57:900][482]LogSavePackage: Moving output files for package: /Game/00-Content/07-Videos+Animations/Ending1_Video
+[2022.03.14-18.03.57:900][482]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/Ending1_Video06E378294E067232494708833626B964.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/07-Videos+Animations/Ending1_Video.uasset'
+[2022.03.14-18.03.58:076][482]AssetCheck: New page: Asset Save: Ending1_Video
+[2022.03.14-18.03.58:076][482]LogContentValidation: Display: Validating MediaTexture /Game/00-Content/07-Videos+Animations/Ending1_Video.Ending1_Video
+[2022.03.14-18.03.58:699][505]LogSavePackage: Moving output files for package: /Game/00-Content/07-Videos+Animations/Ending1
+[2022.03.14-18.03.58:699][505]LogSavePackage: Moving '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Saved/Ending1CA60C3934A4BFCDB628E34B633A53A52.tmp' to '../../../../../../Users/didac/Desktop/PROJECTE 2/UpborneStudiosProject2/UE5Project2Upborne/Content/00-Content/07-Videos+Animations/Ending1.uasset'
+[2022.03.14-18.03.58:903][505]AssetCheck: New page: Asset Save: Ending1
+[2022.03.14-18.03.58:903][505]LogContentValidation: Display: Validating MediaPlayer /Game/00-Content/07-Videos+Animations/Ending1.Ending1
+[2022.03.14-18.04.03:876][574]LogAssetEditorSubsystem: Opening Asset editor for MediaPlayer /Game/00-Content/07-Videos+Animations/Ending1.Ending1
+[2022.03.14-18.04.03:977][574]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9C395584C3094862FF94822858889CCD44354C0F), compiling. 
+[2022.03.14-18.04.04:067][574]LogAssetEditorSubsystem: Opening Asset editor for MediaTexture /Game/00-Content/07-Videos+Animations/Ending1_Video.Ending1_Video
+[2022.03.14-18.04.04:115][574]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display: ================================================
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display: Total job queries 2, among them cache hits 0 (0.00%)
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display: Shaders Compiled: 2
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100.00%)
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.04 s
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display: Job execution time: average 0.65 s, max 0.65 s
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display: Job life time (pending + execution): average 0.69 s, max 0.69
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.69 s
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display: Average processing rate: 2.89 jobs/sec
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display: Effective parallelization: 0.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault - 56.02% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse - 43.98% of total time (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2022.03.14-18.04.11:081][882]LogShaderCompilers: Display: ================================================
+[2022.03.14-18.04.47:760][118]LogSlate: Window 'Ending1' being destroyed
+[2022.03.14-18.04.57:133][505]LogContentBrowser: Deferred new asset file creation: Ending1_Video_Mat
+[2022.03.14-18.04.57:145][505]LogContentBrowser: Creating deferred item: Ending1_Video_Mat
+[2022.03.14-18.04.57:156][506]LogContentBrowser: Renaming the item being created (Deferred Item: Ending1_Video_Mat).
+[2022.03.14-18.05.01:882][734]LogContentBrowser: Attempting asset rename: Ending1_Video_Mat -> Ending1_Video_Mat
+[2022.03.14-18.05.02:007][734]LogMaterial: Display: Missing cached shadermap for Ending1_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E6BE2801BBA9FC29A9C251D20C81763AF74316E7), compiling. 
+[2022.03.14-18.05.02:014][734]LogContentBrowser: End creating deferred item Ending1_Video_Mat
+[2022.03.14-18.05.02:867][808]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/00-Content/07-Videos+Animations/Ending1_Video_Mat.Ending1_Video_Mat
+[2022.03.14-18.05.02:874][808]LogMaterial: Display: Missing cached shadermap for Preview:Ending1_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B595E2415971360B7AA3A47F040764D04FEFD4CA), compiling. 
+[2022.03.14-18.05.02:946][808]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.14-18.05.02:953][808]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.03.14-18.05.02:970][808]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.03.14-18.05.03:043][808]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2022.03.14-18.05.03:201][808]LogMaterial: Display: Missing cached shadermap for Preview:Ending1_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 53339DE89B15827A1A6CBB848BD3644BAF101F3A), compiling. 
+[2022.03.14-18.05.03:210][808]LogMaterial: Display: Missing cached shadermap for Preview:Ending1_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 93089700576D5722E935070128A6C8D5233D2F59), compiling. 
+[2022.03.14-18.05.03:218][808]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B8FEA0961A7222B1F470B688D1634BFBAE9C9883), compiling. 
+[2022.03.14-18.05.03:286][808]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.14-18.05.03:286][808]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.03.14-18.05.03:286][808]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.14-18.05.03:286][808]MaterialEditorStats: Shader Count: 0
+[2022.03.14-18.05.03:296][808]LogSlate: Took 0.001296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.14-18.05.04:313][828]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.14-18.05.04:313][828]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.03.14-18.05.04:313][828]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.14-18.05.04:313][828]MaterialEditorStats: Shader Count: 1
+[2022.03.14-18.05.05:474][861]MaterialEditorStats: Texture samplers: 3/16
+[2022.03.14-18.05.05:474][861]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.03.14-18.05.05:474][861]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.14-18.05.05:474][861]MaterialEditorStats: Shader Count: 4
+[2022.03.14-18.05.08:268][966]LogMaterial: Display: Missing cached shadermap for Preview:Ending1_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 97738E7231A7BB5A385E3937748989E9AF58E70C), compiling. 
+[2022.03.14-18.05.09:714][111]LogMaterial: Display: Missing cached shadermap for Preview:Ending1_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2D072B0C91706FDCB06A1EAAE4D8E2CBF76E26A3), compiling. 
+[2022.03.14-18.05.09:724][111]LogMaterial: Display: Missing cached shadermap for Preview:Ending1_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0098D3AAE9582B120F8FDB0EC56FCBCC296C6502), compiling. 
+[2022.03.14-18.05.09:730][111]LogMaterial: Display: Missing cached shadermap for Preview:Ending1_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 38596CECC43E77D180C576A0D93701589108F72C), compiling. 
+[2022.03.14-18.05.09:737][111]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.14-18.05.09:737][111]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.03.14-18.05.09:737][111]MaterialEditorStats: Shader Count: 0
+[2022.03.14-18.05.10:394][128]LogMaterial: Display: Missing cached shadermap for Preview:Ending1_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 104C8A1051343D87AA385D25E5D5F51C11BC4E21), compiling. 
+[2022.03.14-18.05.11:008][179]LogMaterial: Display: Missing cached shadermap for Preview:Ending1_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 95873B125A902BE9605D8A3AFE3A545DD35B86AE), compiling. 
+[2022.03.14-18.05.11:019][179]LogMaterial: Display: Missing cached shadermap for Preview:Ending1_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 59DCCD701B147EF600A18A11C6EC146EF141E426), compiling. 
+[2022.03.14-18.05.11:023][179]LogMaterial: Display: Missing cached shadermap for Preview:Ending1_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9B09A260087732724F61FC303A7654C4C85D6FF7), compiling. 
+[2022.03.14-18.05.20:115][456]LogMaterial: Display: Missing cached shadermap for Preview:Ending1_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E48882E3851E9C01F1CCDB430449A4C3543FEEC1), compiling. 
+[2022.03.14-18.05.20:119][456]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F84399244677B00D74935B4718747447E158FEA4), compiling. 
+[2022.03.14-18.05.20:124][456]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.14-18.05.20:124][456]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.03.14-18.05.20:124][456]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.14-18.05.20:124][456]MaterialEditorStats: Shader Count: 0
+[2022.03.14-18.05.20:663][477]MaterialEditorStats: Texture samplers: 1/16
+[2022.03.14-18.05.20:663][477]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.03.14-18.05.20:663][477]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.14-18.05.20:663][477]MaterialEditorStats: Shader Count: 2
+[2022.03.14-18.05.22:305][556]LogMaterialEditor: Saving and Compiling material Ending1_Video_Mat
+[2022.03.14-18.05.22:788][556]LogMaterial: Display: Missing cached shadermap for Preview:Ending1_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: CC0CE09EDD7149FB0198EE228EA2D6DA2A609205), compiling. 
+[2022.03.14-18.05.22:802][556]LogMaterial: Display: Missing cached shadermap for Ending1_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 428B96890728DBFD098DC7ADF8FF0CCC3A679F66), compiling. 
+[2022.03.14-18.05.22:824][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.03.14-18.05.22:897][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
