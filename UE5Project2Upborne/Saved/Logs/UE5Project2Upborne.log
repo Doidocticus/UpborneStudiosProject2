@@ -1,9 +1,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 03/14/22 20:29:00
 =======
 ﻿Log file open, 03/10/22 17:36:03
 >>>>>>> parent of a087f12 (Inventory)
+=======
+﻿Log file open, 03/10/22 17:36:03
+>>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
 =======
 ﻿Log file open, 03/10/22 17:36:03
 >>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
@@ -16,10 +20,14 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogWindows: Started CrashReportClient (pid=2404)
 =======
 LogWindows: Started CrashReportClient (pid=21508)
 >>>>>>> parent of a087f12 (Inventory)
+=======
+LogWindows: Started CrashReportClient (pid=21508)
+>>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
 =======
 LogWindows: Started CrashReportClient (pid=21508)
 >>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
@@ -38,6 +46,7 @@ LogCsvProfiler: Display: Metadata set : pgoenabled="0"
 LogCsvProfiler: Display: Metadata set : loginid="15af51754863129d85895dbf92776500"
 LogCsvProfiler: Display: Metadata set : llm="0"
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 LogStats: Stats thread started at 0.730813
@@ -68,6 +77,13 @@ LogInit: Session CrashGUID >====================================================
          Session CrashGUID >   UECC-Windows-BF4E16444EBBFB403B28A79D8C701765
          Session CrashGUID >====================================================
 >>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
+=======
+LogStats: Stats thread started at 0.665427
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-BF4E16444EBBFB403B28A79D8C701765
+         Session CrashGUID >====================================================
+>>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
 LogConfig: Display: Loading VulkanPC ini files took 0.01 seconds
 LogConfig: Display: Loading Unix ini files took 0.02 seconds
 LogConfig: Display: Loading Android ini files took 0.02 seconds
@@ -79,7 +95,10 @@ LogConfig: Display: Loading Linux ini files took 0.03 seconds
 LogConfig: Display: Loading HoloLens ini files took 0.07 seconds
 LogConfig: Display: Loading Windows ini files took 0.07 seconds
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of a087f12 (Inventory)
+=======
+>>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
 =======
 >>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
 LogPluginManager: Mounting Engine plugin Bridge
@@ -87,6 +106,7 @@ LogPluginManager: Mounting Engine plugin FastBuildController
 LogPluginManager: Mounting Engine plugin MeshPainting
 LogPluginManager: Mounting Engine plugin XGEController
 LogPluginManager: Mounting Engine plugin Paper2D
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin AISupport
@@ -99,6 +119,11 @@ LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
 LogPluginManager: Mounting Engine plugin AISupport
 LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
 >>>>>>> parent of a087f12 (Inventory)
+=======
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+>>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
 =======
 LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
 LogPluginManager: Mounting Engine plugin AISupport
@@ -123,6 +148,7 @@ LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
 LogPluginManager: Mounting Engine plugin PerforceSourceControl
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin CryptoKeys
 LogPluginManager: Mounting Engine plugin PixWinPlugin
 LogPluginManager: Mounting Engine plugin PlasticSourceControl
@@ -143,6 +169,12 @@ LogPluginManager: Mounting Engine plugin PropertyAccessNode
 LogPluginManager: Mounting Engine plugin PlasticSourceControl
 LogPluginManager: Mounting Engine plugin TextureFormatOodle
 LogPluginManager: Mounting Engine plugin PixWinPlugin
+=======
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+>>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
 LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
 >>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
 LogPluginManager: Mounting Engine plugin SubversionSourceControl
@@ -187,7 +219,10 @@ LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
 LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
 LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
 LogPluginManager: Mounting Engine plugin SpeedTreeImporter
 LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
 LogPluginManager: Mounting Engine plugin StylusInput
@@ -196,6 +231,7 @@ LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting Engine plugin PluginBrowser
 LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting Engine plugin SequencerAnimTools
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin StylusInput
 LogPluginManager: Mounting Engine plugin SpeedTreeImporter
@@ -226,10 +262,14 @@ LogPluginManager: Mounting Engine plugin DatasmithContent
 =======
 LogPluginManager: Mounting Engine plugin DatasmithContent
 >>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
+=======
+LogPluginManager: Mounting Engine plugin DatasmithContent
+>>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
 LogPluginManager: Mounting Engine plugin MeshLODToolset
 LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
 LogPluginManager: Mounting Engine plugin MotoSynth
 LogPluginManager: Mounting Engine plugin OpenImageDenoise
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -239,6 +279,11 @@ LogPluginManager: Mounting Engine plugin ProxyLODPlugin
 LogPluginManager: Mounting Engine plugin PlatformCrypto
 LogPluginManager: Mounting Engine plugin PlanarCut
 LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+=======
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+>>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
 =======
 LogPluginManager: Mounting Engine plugin PlanarCut
 LogPluginManager: Mounting Engine plugin ProxyLODPlugin
@@ -257,6 +302,7 @@ LogPluginManager: Mounting Engine plugin ImgMedia
 LogPluginManager: Mounting Engine plugin MediaCompositing
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin MediaPlayerEditor
 LogPluginManager: Mounting Engine plugin WebMMedia
 LogPluginManager: Mounting Engine plugin TcpMessaging
@@ -279,6 +325,13 @@ LogPluginManager: Mounting Engine plugin WmfMedia
 LogPluginManager: Mounting Engine plugin LevelSequenceEditor
 LogPluginManager: Mounting Engine plugin MediaPlayerEditor
 >>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
+=======
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+>>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
 LogPluginManager: Mounting Engine plugin SequencerScripting
 LogPluginManager: Mounting Engine plugin TemplateSequence
 LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
@@ -288,6 +341,7 @@ LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
 LogPluginManager: Mounting Engine plugin AndroidPermission
 LogPluginManager: Mounting Engine plugin OnlineBase
 LogPluginManager: Mounting Engine plugin OnlineSubsystem
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin ActorLayerUtilities
 LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
@@ -300,6 +354,9 @@ LogPluginManager: Mounting Engine plugin OnlineBase
 LogPluginManager: Mounting Engine plugin OnlineSubsystem
 LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
 >>>>>>> parent of a087f12 (Inventory)
+=======
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+>>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
 =======
 LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
 >>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
@@ -319,12 +376,17 @@ LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin GeometryCache
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin GeometryProcessing
 LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
 =======
 LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
 LogPluginManager: Mounting Engine plugin Takes
 >>>>>>> parent of a087f12 (Inventory)
+=======
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin Takes
+>>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
 =======
 LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
 LogPluginManager: Mounting Engine plugin Takes
@@ -360,9 +422,13 @@ LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 LogPluginManager: Mounting Engine plugin OnlineServices
 >>>>>>> parent of a087f12 (Inventory)
+=======
+LogPluginManager: Mounting Engine plugin OnlineServices
+>>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
 =======
 LogPluginManager: Mounting Engine plugin OnlineServices
 >>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
@@ -379,12 +445,15 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animati
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
 =======
 >>>>>>> parent of a087f12 (Inventory)
+=======
+>>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
 =======
 >>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
@@ -499,6 +568,7 @@ LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable crea
 LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
 LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
 LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 [2022.03.14-19.29.01:459][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
@@ -1752,6 +1822,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.03.14-19.30.09:337][119]LogExit: Exiting.
 [2022.03.14-19.30.09:346][119]Log file closed, 03/14/22 20:30:09
 =======
+=======
+>>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
 =======
 >>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
 [2022.03.10-16.36.05:378][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
@@ -3918,6 +3990,7 @@ RectLight24
 [2022.03.10-17.38.09:507][796]LogDerivedDataCache: C:/Users/Didac/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.312 and deleted 0 file(s) with total size 0 MiB.
 [2022.03.10-17.44.24:305][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
 <<<<<<< HEAD
+<<<<<<< HEAD
 [2022.03.10-18.24.30:162][445]LogDebuggerCommands: Repeating last play command: Selected Viewport
 [2022.03.10-18.24.30:757][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
 [2022.03.10-18.24.30:757][445]PIE: New page: PIE session: MainLevel (Mar 10, 2022, 8:24:30 PM)
@@ -4600,5 +4673,7 @@ RectLight24
 [2022.03.10-19.09.29:341][403]LogExit: Exiting.
 [2022.03.10-19.09.29:351][403]Log file closed, 03/10/22 20:09:29
 >>>>>>> parent of a087f12 (Inventory)
+=======
+>>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
 =======
 >>>>>>> parent of 51ed722 (Bugs fixed (not key-inspectable object one))
